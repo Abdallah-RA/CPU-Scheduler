@@ -1,2 +1,2 @@
 # CPU-Scheduler
-A scheduling simulation system implemented using C  for various CPU scheduling algorithms.
+A scheduling simulation system implemented using java  for various CPU scheduling algorithms.
